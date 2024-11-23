@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Egyetem\\MinefieldGameWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4BB969-9EA1-46DC-8A39-4C117BDE3063}|MinefieldGame.View\\MinefieldGame.View.csproj|f:\\egyetem\\minefieldgamewpf\\minefieldgame.view\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4BB969-9EA1-46DC-8A39-4C117BDE3063}|MinefieldGame.View\\MinefieldGame.View.csproj|solutionrelative:minefieldgame.view\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807533E1-EEFF-4502-8C86-A61D2F9F2E15}|MinefieldGame.ViewModel\\MinefieldGame.ViewModel.csproj|f:\\egyetem\\minefieldgamewpf\\minefieldgame.viewmodel\\minefieldgameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{807533E1-EEFF-4502-8C86-A61D2F9F2E15}|MinefieldGame.ViewModel\\MinefieldGame.ViewModel.csproj|solutionrelative:minefieldgame.viewmodel\\minefieldgameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807533E1-EEFF-4502-8C86-A61D2F9F2E15}|MinefieldGame.ViewModel\\MinefieldGame.ViewModel.csproj|f:\\egyetem\\minefieldgamewpf\\minefieldgame.viewmodel\\mineviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{807533E1-EEFF-4502-8C86-A61D2F9F2E15}|MinefieldGame.ViewModel\\MinefieldGame.ViewModel.csproj|solutionrelative:minefieldgame.viewmodel\\mineviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4BB969-9EA1-46DC-8A39-4C117BDE3063}|MinefieldGame.View\\MinefieldGame.View.csproj|f:\\egyetem\\minefieldgamewpf\\minefieldgame.view\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4BB969-9EA1-46DC-8A39-4C117BDE3063}|MinefieldGame.View\\MinefieldGame.View.csproj|solutionrelative:minefieldgame.view\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MineViewModel.cs",
+              "DocumentMoniker": "F:\\Egyetem\\MinefieldGameWPF\\MinefieldGame.ViewModel\\MineViewModel.cs",
+              "RelativeDocumentMoniker": "MinefieldGame.ViewModel\\MineViewModel.cs",
+              "ToolTip": "F:\\Egyetem\\MinefieldGameWPF\\MinefieldGame.ViewModel\\MineViewModel.cs",
+              "RelativeToolTip": "MinefieldGame.ViewModel\\MineViewModel.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAlwDYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:38:22.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinefieldGameViewModel.cs",
+              "DocumentMoniker": "F:\\Egyetem\\MinefieldGameWPF\\MinefieldGame.ViewModel\\MinefieldGameViewModel.cs",
+              "RelativeDocumentMoniker": "MinefieldGame.ViewModel\\MinefieldGameViewModel.cs",
+              "ToolTip": "F:\\Egyetem\\MinefieldGameWPF\\MinefieldGame.ViewModel\\MinefieldGameViewModel.cs",
+              "RelativeToolTip": "MinefieldGame.ViewModel\\MinefieldGameViewModel.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAlwKkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:30:17.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\Egyetem\\MinefieldGameWPF\\MinefieldGame.View\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MinefieldGame.View\\App.xaml.cs",
+              "ToolTip": "F:\\Egyetem\\MinefieldGameWPF\\MinefieldGame.View\\App.xaml.cs",
+              "RelativeToolTip": "MinefieldGame.View\\App.xaml.cs",
+              "ViewState": "AgIAADABAAAAAAAAAAAowOgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:07:34.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameTimer.cs",
+              "DocumentMoniker": "F:\\Egyetem\\MinefieldGameWPF\\MinefieldGame.View\\GameTimer.cs",
+              "RelativeDocumentMoniker": "MinefieldGame.View\\GameTimer.cs",
+              "ToolTip": "F:\\Egyetem\\MinefieldGameWPF\\MinefieldGame.View\\GameTimer.cs",
+              "RelativeToolTip": "MinefieldGame.View\\GameTimer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:51:57.961Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

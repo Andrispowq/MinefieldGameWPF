@@ -1,0 +1,11 @@
+F:\Egyetem\MinefieldGameWPF\MinefieldGame.Persistence\bin\Debug\net8.0\MinefieldGame.Persistence.deps.json
+F:\Egyetem\MinefieldGameWPF\MinefieldGame.Persistence\bin\Debug\net8.0\MinefieldGame.Persistence.dll
+F:\Egyetem\MinefieldGameWPF\MinefieldGame.Persistence\bin\Debug\net8.0\MinefieldGame.Persistence.pdb
+F:\Egyetem\MinefieldGameWPF\MinefieldGame.Persistence\obj\Debug\net8.0\MinefieldGame.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\Egyetem\MinefieldGameWPF\MinefieldGame.Persistence\obj\Debug\net8.0\MinefieldGame.Persistence.AssemblyInfoInputs.cache
+F:\Egyetem\MinefieldGameWPF\MinefieldGame.Persistence\obj\Debug\net8.0\MinefieldGame.Persistence.AssemblyInfo.cs
+F:\Egyetem\MinefieldGameWPF\MinefieldGame.Persistence\obj\Debug\net8.0\MinefieldGame.Persistence.csproj.CoreCompileInputs.cache
+F:\Egyetem\MinefieldGameWPF\MinefieldGame.Persistence\obj\Debug\net8.0\MinefieldGame.Persistence.dll
+F:\Egyetem\MinefieldGameWPF\MinefieldGame.Persistence\obj\Debug\net8.0\refint\MinefieldGame.Persistence.dll
+F:\Egyetem\MinefieldGameWPF\MinefieldGame.Persistence\obj\Debug\net8.0\MinefieldGame.Persistence.pdb
+F:\Egyetem\MinefieldGameWPF\MinefieldGame.Persistence\obj\Debug\net8.0\ref\MinefieldGame.Persistence.dll

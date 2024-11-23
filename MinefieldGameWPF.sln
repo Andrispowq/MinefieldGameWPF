@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinefieldGame.View", "MinefieldGame.View\MinefieldGame.View.csproj", "{CD4BB969-9EA1-46DC-8A39-4C117BDE3063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinefieldGame.Model", "MinefieldGame.Model\MinefieldGame.Model.csproj", "{02364942-D353-43C0-AE5C-0EBA496233FC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B1D54385-407E-4F0E-A9A4-93D96C883204} = {B1D54385-407E-4F0E-A9A4-93D96C883204}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinefieldGame.Persistence", "MinefieldGame.Persistence\MinefieldGame.Persistence.csproj", "{B1D54385-407E-4F0E-A9A4-93D96C883204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinefieldGame.Tests", "MinefieldGame.Tests\MinefieldGame.Tests.csproj", "{6DE184F8-15FF-446B-B61D-46ED05D6EC29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinefieldGame.ViewModel", "MinefieldGame.ViewModel\MinefieldGame.ViewModel.csproj", "{807533E1-EEFF-4502-8C86-A61D2F9F2E15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD4BB969-9EA1-46DC-8A39-4C117BDE3063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD4BB969-9EA1-46DC-8A39-4C117BDE3063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD4BB969-9EA1-46DC-8A39-4C117BDE3063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD4BB969-9EA1-46DC-8A39-4C117BDE3063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02364942-D353-43C0-AE5C-0EBA496233FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02364942-D353-43C0-AE5C-0EBA496233FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02364942-D353-43C0-AE5C-0EBA496233FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02364942-D353-43C0-AE5C-0EBA496233FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1D54385-407E-4F0E-A9A4-93D96C883204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D54385-407E-4F0E-A9A4-93D96C883204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D54385-407E-4F0E-A9A4-93D96C883204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D54385-407E-4F0E-A9A4-93D96C883204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE184F8-15FF-446B-B61D-46ED05D6EC29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE184F8-15FF-446B-B61D-46ED05D6EC29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE184F8-15FF-446B-B61D-46ED05D6EC29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE184F8-15FF-446B-B61D-46ED05D6EC29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{807533E1-EEFF-4502-8C86-A61D2F9F2E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807533E1-EEFF-4502-8C86-A61D2F9F2E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807533E1-EEFF-4502-8C86-A61D2F9F2E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807533E1-EEFF-4502-8C86-A61D2F9F2E15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E44649EE-15F2-4C4E-B1E2-BBB9571EBE70}
+	EndGlobalSection
+EndGlobal
