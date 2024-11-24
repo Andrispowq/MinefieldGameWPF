@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinefieldGame.View", "MinefieldGame.View\MinefieldGame.View.csproj", "{CD4BB969-9EA1-46DC-8A39-4C117BDE3063}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinefieldGame", "MinefieldGame\MinefieldGame.csproj", "{CD4BB969-9EA1-46DC-8A39-4C117BDE3063}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinefieldGame.Model", "MinefieldGame.Model\MinefieldGame.Model.csproj", "{02364942-D353-43C0-AE5C-0EBA496233FC}"
 	ProjectSection(ProjectDependencies) = postProject

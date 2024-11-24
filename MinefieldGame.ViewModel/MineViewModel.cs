@@ -18,8 +18,6 @@ namespace MinefieldGame.ViewModel
 
         public Mine Mine { get; init; }
 
-        public event EventHandler<MineViewModel>? MineEvaded;
-
         public double Width => Mine.Size.X;
         public double Height => Mine.Size.Y;
         public Point2D Size => Mine.Size;
@@ -33,7 +31,6 @@ namespace MinefieldGame.ViewModel
                 {
                     _position = value;
                     OnPropertyChanged();
-                    //CheckIfMineEvaded();
                 }
             }
         }

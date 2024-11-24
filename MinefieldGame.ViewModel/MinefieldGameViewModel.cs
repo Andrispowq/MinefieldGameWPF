@@ -3,7 +3,6 @@ using MinefieldGame.Model.Game;
 using MinefieldGame.Model.Math;
 using MinefieldGame.Model.Mines;
 using MinefieldGame.Persistence;
-using MinefieldGameView;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -111,7 +110,6 @@ namespace MinefieldGame.ViewModel
                 foreach(var m in mines)
                 {
                     MineViewModel mineViewModel = new MineViewModel(m, _gameBounds);
-                    mineViewModel.MineEvaded += OnMineEvaded;
                     Mines.Add(mineViewModel);
                 }
             }
@@ -123,15 +121,9 @@ namespace MinefieldGame.ViewModel
         private void OnMineAdded(Mine mine)
         {
             MineViewModel mineViewModel = new MineViewModel(mine, _gameBounds);
-            mineViewModel.MineEvaded += OnMineEvaded;
             Mines.Add(mineViewModel);
 
             MineAdded?.Invoke(this, mineViewModel);
-        }
-
-        private void OnMineEvaded(object? sender, MineViewModel mine)
-        {
-            Mines.Remove(mine);
         }
 
         private void OnGameUpdated(object? sender, EventArgs e)
@@ -159,12 +151,18 @@ namespace MinefieldGame.ViewModel
 
         private void OnNewGame()
         {
+            GameManager?.EndGame();
+            Mines.Clear();
+
             GameManager?.NewGame();
             ViewState = ViewState.Play;
         }
 
         private void OnLoadGame(string fileName)
         {
+            GameManager?.EndGame();
+            Mines.Clear();
+
             GameManager?.LoadGame(fileName);
             GameManager?.StartGame();
             ViewState = ViewState.Play;
